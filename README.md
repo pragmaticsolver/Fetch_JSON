@@ -2,6 +2,10 @@
 
 This project was was edited by Pete Waters.
 
+### `npm install`
+
+Install packages
+
 
 ### `npm start`
 
